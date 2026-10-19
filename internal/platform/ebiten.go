@@ -8,7 +8,7 @@ import (
 
 const (
 	cyclesPerFrame = 10 // 600 instructions per second at 60 fps
-	scale          = 10
+	scale          = 20
 )
 
 //	CHIP-8 keypad      Your keyboard
