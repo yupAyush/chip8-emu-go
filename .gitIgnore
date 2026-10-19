@@ -1,0 +1,14 @@
+# Built binaries
+/chip8
+/chip8.exe
+/bin/
+
+# Go test and coverage output
+*.test
+*.out
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
